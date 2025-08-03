@@ -1,4 +1,6 @@
+
 # Note: This repository is _not_ included in the Hacktoberfest event, as it is for practice only!
+# This is for practice purpose only
 
 ## Awesome GitHub profiles
 
